@@ -14,8 +14,9 @@ I am an IT professional with a strong foundation in system administration, techn
 
 **IT Support, Philippine Duplicator Inc.**  
 *September 11, 2023 – Present*  
-- System Administrator  
-- Server Admin  
+- System Administrator (Wordpress, VMC Format, & Foxpro)  
+- Server Admin
+- CCTV Administrator  
 - Technical Support (Software & Hardware)
 
 **IT Intern, RBC-MDC Corporation**  
@@ -40,13 +41,17 @@ I am an IT professional with a strong foundation in system administration, techn
 ## Skills
 
 - Technical Support  
-- Laravel  
+- Wordpress 
 - HTML5  
 - PHP  
 - MariaDB  
 - CSS  
 - JavaScript  
 - SQL
+- SEO
+- Hosting
+- Active Directory
+- CCTV
 
 ---
 
@@ -61,10 +66,12 @@ I am an IT professional with a strong foundation in system administration, techn
 
 ## Projects
 
+- **RCSA System(Request For Credit and Sales Approval) for Philippine Duplicators, Inc.** - System Administrator
+- **Wordpress Administrator for Phildup.com** - System Administrator 
 - **Library Management System (College)** - Project Head  
 - **IT Equipment Software**  
 - **Preventive Maintenance Service/Server Maintenance**  
-- **CCTV Installation**
+- **CCTV Installation & Administrator in 5 Branches in Luzon**  
 
 ---
 
