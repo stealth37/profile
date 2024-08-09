@@ -66,8 +66,8 @@ I am an IT professional with a strong foundation in system administration, techn
 
 ## Projects
 
-- **RCSA System(Request For Credit and Sales Approval) for Philippine Duplicators, Inc.** - System Administrator
-- **Wordpress Administrator for Phildup.com** - System Administrator 
+- **RCSA System(Request For Credit and Sales Approval) Philippine Duplicators, Inc.** - System Administrator
+- **Wordpress System for Phildup.com** - System Administrator 
 - **Library Management System (College)** - Project Head  
 - **IT Equipment Software**  
 - **Preventive Maintenance Service/Server Maintenance**  
